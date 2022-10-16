@@ -1,0 +1,532 @@
+
+
+@media (max-width: 1200px) {
+  #hero{
+    .hero-hand {
+      top: 253px;
+      width: 37%;
+    }
+    .hero-hand1 {
+      top: 172px;
+      width: 40%;
+    }
+  }
+
+  #about {
+    padding: 100px 0;
+  }
+
+  #about .about-hand4 {
+    width: 40%;
+    top: 1200px;
+  }
+
+  #about .about-hand3 {
+    width: 40%;
+    top: 1214px;
+  }
+
+  #portfolio .portfolio-hand6 {
+    width: 40%;
+    top: 3381px;
+  }
+
+  #portfolio .portfolio-hand5 {
+    width: 40%;
+    top: 3385px;
+  }
+
+  #review {
+    padding-top: 100px;
+  }
+
+  #review .review .swiper {
+    width: 100%;
+  }
+
+  #footer .footer img {
+    width: 50%;
+  }
+}
+
+@media (max-width: 1024px) {
+  #hero .hero-hand {
+    top: 268px;
+    width: 35%;
+  }
+
+  #about .about--group {
+    padding: 15px 0;
+  }
+
+  #about .about--group div p {
+    font-size: 15px;
+  }
+
+  #about .about-hand4 {
+    top: 1164px;
+  }
+
+  #about .about-hand3 {
+    top: 1187px;
+  }
+
+  #portfolio .portfolio--block img {
+    width: 45%;
+  }
+
+  #footer .footer--block {
+    width: 90%;
+  }
+
+
+}
+
+@media (max-width: 992px) {
+  .container{
+    width: 90%;
+  }
+
+  #hero .hero-hand1 {
+    top: 205px;
+  }
+
+  #portfolio .portfolio--block img {
+    width: 40%;
+  }
+
+  #portfolio .portfolio-hand6 {
+    top: 3075px;
+  }
+
+  #portfolio .portfolio-hand5 {
+    top: 3075px;
+  }
+
+  #review {
+    padding-top: 20px;
+  }
+
+  #review .review {
+    padding: 40px;
+  }
+
+
+}
+
+@media (max-width: 768px) {
+  #header .navbar{
+    padding: 10px 35px;
+    &--nav{
+      display: none;
+    }
+
+    button{
+      display: none;
+    }
+  }
+
+  .open-close-menu{
+    display: block;
+  }
+
+  #hero .hero-hand1 {
+    top: 262px;
+  }
+
+  #hero .hero-hand {
+    top: 315px;
+  }
+
+
+  #hero .hero--block p {
+    font-size: 21px;
+  }
+
+  #about .about--par {
+    font-size: 16px;
+  }
+
+  #about .about--block__person div img {
+    width: 80%;
+  }
+
+  #about .about--block {
+    padding: 30px 0;
+  }
+
+  #about .about--group div p {
+    font-size: 13px;
+  }
+
+  #portfolio {
+    padding: 10px 0;
+  }
+
+  #hero .hero-circle {
+    width: 40%;
+    height: 60%;
+  }
+
+  #portfolio .portfolio--block div p {
+    font-size: 15px;
+  }
+
+  #portfolio .portfolio-hand6 {
+    top: 2730px;
+  }
+
+  #portfolio .portfolio-hand5 {
+    top: 2730px;
+  }
+}
+
+@media (max-width: 576px) {
+  #hero .hero h1 {
+    font-size: 105px;
+  }
+
+  #hero .hero h2 {
+    font-size: 26px;
+  }
+
+  #hero .hero--block {
+    width: 100%;
+    p{
+      font-size: 16px;
+      line-height: 20px;
+    }
+  }
+
+  #about {
+    padding: 60px 0;
+  }
+
+  #about .about--par {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  #about .about--block__person h2 {
+    font-size: 20px;
+  }
+
+  #about .about--group div {
+    width: 48%;
+    h3{
+      font-size: 25px;
+    }
+    p{
+      font-size: 12px;
+    }
+  }
+
+  #about .about-hand4 {
+    top: 1080px;
+  }
+
+  #about .about-hand3 {
+    top: 1096px;
+  }
+
+  #portfolio .portfolio--block div p {
+    font-size: 12px;
+  }
+
+  #portfolio .portfolio--block div button {
+    font-size: 11px;
+  }
+
+  #portfolio .portfolio-hand6 {
+    top: 2690px;
+  }
+
+  #portfolio .portfolio-hand5 {
+    top: 2690px;
+  }
+
+  #footer .footer--block__input input {
+    height: 50px;
+  }
+
+  #footer .footer--block__send label {
+    font-size: 14px;
+  }
+
+
+}
+
+@media (max-width: 451px) {
+  #hero .hero h1 {
+    font-size: 80px;
+  }
+
+  #hero .hero h2 {
+    font-size: 22px;
+  }
+
+  #hero .hero button {
+    font-size: 12px;
+    margin: 30px 0;
+  }
+
+  #hero .hero-hand1 {
+    top: 240px;
+  }
+
+  #hero .hero-hand {
+    top: 298px;
+    width: 32%;
+  }
+
+  #about .about h1 {
+    font-size: 34px;
+  }
+
+  #about .about--par {
+    font-size: 11px;
+    line-height: 15px;
+  }
+
+  #about .about--block__person div img {
+    width: 60%;
+  }
+
+  #about .about--block__person div img {
+    width: 60%;
+    margin-left: 20%;
+  }
+
+  #about .about--group {
+    padding: 0 0;
+  }
+
+  #about .about--group div h3 {
+    font-size: 21px;
+  }
+
+  #about .about--group div {
+    width: 80%;
+  }
+
+  #about .about--group {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  #about .about--btn button {
+   font-size: 12px;
+  }
+
+  #about .about-hand4 {
+    top: 1098px;
+  }
+
+  #about .about-hand3 {
+    top: 1106px;
+  }
+
+  #portfolio .portfolio--title h1 {
+    font-size: 33px;
+  }
+
+  #portfolio .portfolio--block div {
+    width: 50%;
+  }
+
+  #portfolio .portfolio--block div p {
+    font-size: 10px;
+  }
+
+  #portfolio .portfolio--btn button {
+    font-size: 14px;
+  }
+
+  #portfolio .portfolio--btn {
+    padding: 10px 0;
+  }
+
+  #review .review-title h1 {
+    font-size: 33px;
+  }
+
+  #review .review--btn{
+    padding: 20px 0;
+    button {
+      font-size: 11px;
+    }
+  }
+
+  #footer .footer--title h1 {
+    font-size: 30px;
+  }
+
+  #portfolio .portfolio-hand6 {
+    top: 2410px;
+  }
+
+  #portfolio .portfolio-hand5 {
+    top: 2410px;
+  }
+
+  #footer .footer--block__input1 input {
+    height: 110px;
+  }
+
+  #footer .footer--block__send {
+    h2{
+      width: 100%;
+    }
+    flex-wrap: wrap;
+    padding: 10px 0;
+  }
+
+
+}
+
+@media (max-width: 400px) {
+  #header .navbar {
+    padding: 10px 10px;
+  }
+  #hero .hero-hand {
+    top: 279px;
+  }
+
+
+  #about .about--block__person div {
+    width: 120%;
+  }
+
+  #about .about--block__person div img {
+    width: 44%;
+    margin-left: 27%;
+  }
+
+  #about .about--block__person div img {
+    width: 44%;
+    margin-left: 27%;
+  }
+
+  #portfolio .portfolio--btn button {
+    font-size: 11px;
+  }
+
+  #review .review {
+    padding: 20px;
+  }
+
+  #review .review .swiper-button-next {
+    width: 30px;
+    height: 30px;
+
+  }
+
+  .swiper-button-next:after, .swiper-button-prev:after {
+   font-size: 20px;
+  }
+
+  #review .review .swiper-button-prev {
+    width: 30px;
+    height: 30px;
+  }
+
+  #portfolio .portfolio-hand6 {
+    top: 2310px;
+  }
+
+  #portfolio .portfolio-hand5 {
+    top: 2310px;
+  }
+
+  #footer .footer--title h1 {
+    font-size: 25px;
+  }
+
+  #footer .footer--block__input h3 {
+    font-size: 11px;
+  }
+
+  #footer .footer--block__input1 h3 {
+    font-size: 13px;
+  }
+
+  #footer .footer--block__send label {
+    font-size: 11px;
+  }
+
+  .go-to-header {
+    position: fixed;
+    left: 40px;
+    bottom: 40px;
+  }
+}
+
+@media (max-width: 376px) {
+  #hero .hero--block p {
+    font-size: 14px;
+  }
+
+  #about {
+    padding: 40px 0;
+  }
+
+  #about .about h1 {
+    font-size: 30px;
+  }
+
+  #about .about--hr {
+    width: 40%;
+  }
+
+  #about .about--group div p {
+    font-weight: 500;
+    font-size: 12px;
+  }
+
+  #portfolio .portfolio-hand6 {
+    top: 2260px;
+  }
+
+  #portfolio .portfolio-hand5 {
+    top: 2260px;
+  }
+}
+
+@media (max-width: 320px) {
+  #hero .hero h1 {
+    font-size: 60px;
+  }
+
+  #hero .hero hr {
+    width: 90%;
+  }
+
+  #hero .hero h2 {
+    font-size: 16px;
+  }
+
+  #hero .hero-hand {
+    width: 27%;
+  }
+  #portfolio .portfolio-hand6 {
+    top: 2300px;
+  }
+
+  #portfolio .portfolio-hand5 {
+    top: 2300px;
+  }
+
+  #footer .footer--title h1 {
+    font-size: 22px;
+  }
+
+  #footer .footer {
+    padding-top: 25px;
+  }
+
+  #footer .footer--block__send label {
+    font-size: 10px;
+  }
+
+
+}
